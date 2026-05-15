@@ -29,7 +29,7 @@ export function StartScreen() {
           <div className="inline-flex items-center justify-center w-16 h-16 rounded-full bg-pink-100 mb-4">
             <Heart className="w-8 h-8 text-pink-500" />
           </div>
-          <h1 className="text-3xl font-bold text-gray-800 mb-2">哄哄模拟器</h1>
+          <h1 className="text-3xl font-bold text-purple-600 mb-2">哄哄模拟器</h1>
           <p className="text-gray-500">用你的智慧和真诚，在10轮内把对方哄好！</p>
         </div>
 
